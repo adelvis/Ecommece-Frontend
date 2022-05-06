@@ -1,4 +1,4 @@
-# Ecommence
+# Ecommerce
 
 En una web diseñada para **comercio electrónico**, que tiene las siguientes caracteristicas:
 
